@@ -1,0 +1,2 @@
+#Named Entity Identification
+Engineered a proficient model utilizing the CoNLLp dataset to accurately identify named entities within sentences.	Mitigated dataset skewness by replicating the training data with sentences containing multiple named entities.	Employed NLTK4 to extract features from word properties, including parts of speech, n-length suffixes and prefixes. Utilized SVM classifier to categorize word instances as named entities, achieving robust classification outcomes.
